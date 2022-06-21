@@ -6,15 +6,6 @@ Ce dossier Repository est lié au cours `Scikit-learn pour le machine learning`.
 
 DESCRIPTION DE LA FORMATION
 
-## Instructions
-
-Ce dossier Repository a une seule branche main. La branche Main contient le dossier Exercices dans lequel vous trouverez tous les fichier exemples de cette formation.
-
-## Branches
-
-  
-La branche master correspond au code à la fin de la formation. 
-
 ## Installation
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
