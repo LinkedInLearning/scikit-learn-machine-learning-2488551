@@ -8,7 +8,7 @@ DESCRIPTION DE LA FORMATION
 
 ## Instructions
 
-Ce dossier Repository a une seule branche Main. La branche Main contient le dossier Exercices dans lequel vous trouverez tous les fichier exemples de cette formation.
+Ce dossier Repository a une seule branche main. La branche Main contient le dossier Exercices dans lequel vous trouverez tous les fichier exemples de cette formation.
 
 ## Branches
 
