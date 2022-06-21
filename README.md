@@ -10,7 +10,7 @@ DESCRIPTION DE LA FORMATION
 
 1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
    - Notebook Jupyter
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
+2. Clonez ce dossier repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree 
 
 
 ### Formateur
