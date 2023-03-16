@@ -18,5 +18,5 @@ Cette formation, qui s'adresse à ceux qui développent des applications mettant
 Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [lil-course-url]: https://www.linkedin.com/learning/scikit-learn-pour-le-machine-learning
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQFIp_KVWxj2qQ/learning-public-crop_675_1200/0/1662714219700?e=1669032000&v=beta&t=_poWK9H_Lxy5sAkcgAjiD_PiW7jUlZI5kozCU5poiww
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2488551/2488551-1662714198575-16x9.jpg
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/madjid-khichane
