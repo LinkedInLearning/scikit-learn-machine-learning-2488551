@@ -12,7 +12,13 @@
       },
       // Add the IDs of extensions you want installed when the container is created.
       "extensions": [
-        "linkedinlearning.linkedinlearning-vscode-theme"
+        "linkedinlearning.linkedinlearning-vscode-theme",
+        "ms-python.python",
+        "ms-python.vscode-pylance",
+        "ms-toolsai.jupyter",
+        "esbenp.prettier-vscode",
+        "eamodio.gitlens",
+        "analytic-signal.snippets-scikit-learn"
       ]
     }
   },
